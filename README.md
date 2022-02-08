@@ -10,3 +10,7 @@ This demo has a purpose to demonstrate a tuist.io problem with new Dependencies 
 - Run `tuist generate --open`
 - Build target: `DemoApp-Debug` (this will works fine)
 - Build target: `DemoApp-Prod-Debug` (this will fail with 'No such module' error)
+
+----------
+
+Issue [#4129](https://github.com/tuist/tuist/issues/4129)
